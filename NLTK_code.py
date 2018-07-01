@@ -276,5 +276,4 @@ print (len(word_list))
 print (len(vector_list))
 print ("Completed..")
 
-# reference Github Lenord Melvix
 
